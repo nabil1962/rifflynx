@@ -1,0 +1,7 @@
+{
+  "name": "RiffLynx",
+  "description": "An AI-powered music chatbot that combines voice, MIDI, and visual feedback to act as a creative sidekick for musicians. It analyzes what you play, understands your musical context, and guides your songwriting or theory questions interactively.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
